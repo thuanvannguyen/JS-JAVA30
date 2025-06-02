@@ -25,7 +25,7 @@
   height: 450px;
   background-color: green;
   right: 0;
-  bottom: 100px;
+  bottom: -500px; /* JS Xu ly */
   border-radius: 16px;
 }
 
